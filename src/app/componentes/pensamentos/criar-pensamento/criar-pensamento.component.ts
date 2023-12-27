@@ -6,7 +6,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./criar-pensamento.component.css']
 })
 export class CriarPensamentoComponent implements OnInit {
-pensamento: any;
+  pensamento = {
+    id: '1',
+    conteudo: 'Aprendendo Angular',
+    autoria: 'Dev',
+    modelo: ''
+  }
+
 
   constructor() { }
 
