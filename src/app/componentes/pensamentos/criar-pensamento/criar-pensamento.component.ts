@@ -6,11 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./criar-pensamento.component.css']
 })
 export class CriarPensamentoComponent implements OnInit {
+
   pensamento = {
     id: '1',
     conteudo: 'Aprendendo Angular',
     autoria: 'Dev',
-    modelo: ''
+    modelo: 'modelo1'
   }
 
 
@@ -21,8 +22,8 @@ export class CriarPensamentoComponent implements OnInit {
   criarPensamento(){
     alert("Novo pensamento criado!")
   }
-  criarAutoria(){
-    alert("Nova autoria criada!")
+  cancelar(){
+    alert("Acao cancelada!")
   }
 
 }
