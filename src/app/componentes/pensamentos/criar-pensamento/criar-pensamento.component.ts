@@ -18,5 +18,11 @@ export class CriarPensamentoComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  criarPensamento(){
+    alert("Novo pensamento criado!")
+  }
+  criarAutoria(){
+    alert("Nova autoria criada!")
+  }
 
 }
