@@ -2,57 +2,116 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "h",
-      "autoria": "jhh",
-      "modelo": "modelo1"
-    },
-    {
-      "conteudo": "hgf",
-      "autoria": "jhh",
+      "conteudo": "SEJA BEM VINDO",
+      "autoria": "Rafaela",
       "modelo": "modelo1",
-      "id": 2
-    },
+      "favorito": true
+  },
     {
-      "conteudo": "ola",
-      "autoria": "rafa",
-      "modelo": "modelo1",
-      "id": 3
-    },
-    {
-      "conteudo": "ojhcfh",
-      "autoria": "jgffxbbk",
+      "id": 2,
+      "conteudo": "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem.",
+      "autoria": "Anônimo",
+      "modelo": "modelo2",
+      "favorito": false
+  },
+  {
+      "id": 3,
+      "conteudo": "Por que o programador colocou um elefante na geladeira? Porque ele sabia o tamanho da memória dele!",
+      "autoria": "Anônimo",
       "modelo": "modelo3",
-      "id": 4
-    },
-    {
-      "conteudo": "hgjlm",
-      "autoria": "gffjhk",
+      "favorito": false
+  },
+  {
+      "id": 4,
+      "conteudo": "Debugar é como procurar uma agulha no palheiro, mas você sempre encontra o primeiro pelo menos após algumas tentativas.",
+      "autoria": "Anônimo",
+      "modelo": "modelo1",
+      "favorito": false
+  },
+  {
+      "id": 5,
+      "conteudo": "Eu não cometo erros no código, apenas crio surpresas inesperadas para os usuários.",
+      "autoria": "Anônimo",
       "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "gfijlj",
-      "autoria": "fxs",
+      "favorito": false
+  },
+  {
+      "id": 6,
+      "conteudo": "Programar é como escrever um livro: só que os personagens são números e as páginas estão todas encolhidas em 3 pontos.",
+      "autoria": "Anônimo",
+      "modelo": "modelo3",
+      "favorito": false
+  },
+  {
+      "id": 7,
+      "conteudo": "Quando o código funciona na primeira vez, desconfie. O computador pode estar fazendo milagres.",
+      "autoria": "Anônimo",
       "modelo": "modelo1",
-      "id": 6
-    },
-    {
-      "conteudo": "hgblk",
-      "autoria": "jhghfh",
-      "modelo": "modelo1",
-      "id": 7
-    },
-    {
-      "conteudo": "jghh",
-      "autoria": ";kkgfd",
-      "modelo": "modelo1",
-      "id": 8
-    },
-    {
-      "conteudo": "ja que eu vou voar",
-      "autoria": "jasmim",
+      "favorito": false
+  },
+  {
+      "id": 8,
+      "conteudo": "O que um algoritmo tímido faz? Fica no seu casulo de código.",
+      "autoria": "Anônimo",
       "modelo": "modelo2",
-      "id": 9
-    }
+      "favorito": false
+  },
+  {
+      "id": 9,
+      "conteudo": "Por que os programadores preferem o Natal ao Halloween? Porque adoram arrays fora de índice!",
+      "autoria": "Anônimo",
+      "modelo": "modelo3",
+      "favorito": false
+  },
+  {
+      "id": 10,
+      "conteudo": "Qual é o cereal favorito dos desenvolvedores? Loop de Frutas.",
+      "autoria": "Anônimo",
+      "modelo": "modelo1",
+      "favorito": false
+  },
+  {
+      "id": 11,
+      "conteudo": "Ser programador é como ser um mago: você faz coisas acontecerem com algumas palavras mágicas no teclado.",
+      "autoria": "Anônimo",
+      "modelo": "modelo2",
+      "favorito": false
+  },
+  {
+      "id": 12,
+      "conteudo": "Código bom é como um bom vinho: melhora com o tempo, mas às vezes causa dores de cabeça.",
+      "autoria": "Anônimo",
+      "modelo": "modelo3",
+      "favorito": false
+  },
+  {
+      "id": 13,
+      "conteudo": "A diferença entre um engenheiro de software e um feiticeiro é que um pode falar com os mortos, e o outro com os bugs do código antigo.",
+      "autoria": "Anônimo",
+      "modelo": "modelo1",
+      "favorito": false
+  },
+  {
+      "id": 14,
+      "conteudo": "Se os programadores fossem super-heróis, o Debugman seria o mais requisitado de todos.",
+      "autoria": "Anônimo",
+      "modelo": "modelo2",
+      "favorito": false
+  },
+  {
+      "id": 15,
+      "conteudo": "Por que o programador sempre leva uma blusa? Porque ele pode pegar um resfriado se ficar muito tempo no draft!",
+      "autoria": "Anônimo",
+      "modelo": "modelo3",
+      "favorito": false
+  },
+  {
+      "id": 16,
+      "conteudo": "Qual é a rede social favorita dos programadores? Instacode!",
+      "autoria": "Anônimo",
+      "modelo": "modelo1",
+      "favorito": false
+  }
+
   ]
 }
