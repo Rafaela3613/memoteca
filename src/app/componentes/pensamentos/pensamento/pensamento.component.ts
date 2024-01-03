@@ -35,7 +35,7 @@ export class PensamentoComponent implements OnInit {
     return `ativo`
   }
   atualizarFavoritos(){
-    this.service.mudarFvorito(this.pensamento).subscribe();
+    this.service.mudarFavorito(this.pensamento).subscribe();
     console.log(this.pensamento.favorito)
   }
 
