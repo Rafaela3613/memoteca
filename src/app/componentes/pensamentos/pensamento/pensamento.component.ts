@@ -15,28 +15,34 @@ export class PensamentoComponent implements OnInit {
     autoria: 'Nay',
     modelo: 'modelo3',
     favorito: false
-}
+  }
 
+  @Input() listaFavoritos: Pensamento[] = [];
 
   constructor(private service: PensamentoService) { }
 
   ngOnInit(): void {
   }
+
   larguraPensamento(): string {
     if(this.pensamento.conteudo.length >= 256) {
       return 'pensamento-g'
     }
     return 'pensamento-p'
   }
-  mudarIconeFavorito():string{
-    if(this.pensamento.favorito == false){
-      return `inativo`
+
+  mudarIconeFavorito(): string {
+    if(this.pensamento.favorito == false) {
+      return 'inativo'
     }
-    return `ativo`
+    return 'ativo'
   }
-  atualizarFavoritos(){
-    this.service.mudarFavorito(this.pensamento).subscribe();
-    console.log(this.pensamento.favorito)
+
+  atualizarFavoritos() {
+    this.service.mudarFavorito(this.pensamento).subscribe(() => {
+      this.listaFavoritos.splice(this.listaFavoritos.indexOf(this.pensamento), 1)
+    });
+
   }
 
 }
