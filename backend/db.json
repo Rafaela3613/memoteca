@@ -5,7 +5,7 @@
       "conteudo": "SEJA BEM VINDO",
       "autoria": "Rafaela",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "conteudo": "Por que o programador colocou um elefante na geladeira? Porque ele sabia o tamanho da memória dele!",
       "autoria": "Anônimo",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 4,
@@ -33,14 +33,14 @@
       "conteudo": "Eu não cometo erros no código, apenas crio surpresas inesperadas para os usuários.",
       "autoria": "Anônimo",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 6,
       "conteudo": "Programar é como escrever um livro: só que os personagens são números e as páginas estão todas encolhidas em 3 pontos.",
       "autoria": "Anônimo",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "conteudo": "O que um algoritmo tímido faz? Fica no seu casulo de código.",
       "autoria": "Anônimo",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 9,
@@ -75,14 +75,14 @@
       "conteudo": "Ser programador é como ser um mago: você faz coisas acontecerem com algumas palavras mágicas no teclado.",
       "autoria": "Anônimo",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 12,
       "conteudo": "Código bom é como um bom vinho: melhora com o tempo, mas às vezes causa dores de cabeça.",
       "autoria": "Anônimo",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 13,
